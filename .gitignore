@@ -1,0 +1,23 @@
+Python artifacts
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+Environment variables (CRITICAL: Keep secrets local!)
+
+.env
+.env.local
+
+IDE settings (Optional, keeps repo clean)
+
+.vscode/
+.idea/
+.DS_Store
